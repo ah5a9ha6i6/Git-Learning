@@ -1,2 +1,7 @@
 Hello Git!
 Git is awesome.
+<<<<<<< HEAD
+This line was added on github.
+=======
+This line is added from feature2.
+>>>>>>> feature2
